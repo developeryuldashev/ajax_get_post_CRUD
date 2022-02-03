@@ -1,0 +1,10 @@
+
+.deleteImage , .editImage{
+    cursor: pointer; 
+    width: 30px;
+}
+
+
+.edit{
+    display: none;
+}
